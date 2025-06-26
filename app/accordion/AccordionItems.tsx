@@ -17,7 +17,7 @@ const AccordionItems = () => {
 		<>
 			{
 				faqs.map((faq, index) => {
-					const icon = faq.isOpen ? "/accordion/icon-minus.svg" : "/accordion/icon-plus.svg"
+					const icon = faq.isOpen ? "accordion/icon-minus.svg" : "accordion/icon-plus.svg"
 					const isLastItem = index === faqs.length - 1
 
 					return (

@@ -11,7 +11,7 @@ const Accordian = () => {
 				{/*Desktop Image*/}
 				<div className="hidden md:block h-full w-full">
 					<Image
-						src="/accordion/background-pattern-desktop.svg"
+						src="accordion/background-pattern-desktop.svg"
 						alt="Background pattern"
 						className="object-cover"
 						fill
@@ -22,7 +22,7 @@ const Accordian = () => {
 				{/*	Mobile Image*/}
 				<div className="block md:hidden h-full w-full">
 					<Image
-						src="/accordion/background-pattern-mobile.svg"
+						src="accordion/background-pattern-mobile.svg"
 						alt="Background pattern"
 						className="object-cover"
 						fill

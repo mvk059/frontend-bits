@@ -18,7 +18,7 @@ const workSans = Work_Sans({
 })
 
 export const metadata: Metadata = {
-  title: "UI Bits | Manpreet Kunnath",
+  title: "Bits | Manpreet Kunnath",
   description: "UI Bits built using NextJS",
 };
 
