@@ -9,6 +9,6 @@ export const WEB_COMPONENTS = [
         name: 'Color Generator',
         slug: 'color',
         type: 'Component',
-        level: 'Intermediate'
+        level: 'Beginner'
     }
 ]
